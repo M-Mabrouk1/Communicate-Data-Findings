@@ -6,6 +6,14 @@ This project is part of the Udacity data analysis nanodegree
 
 In this project, I am investigating Ford GoBike System Data dataset, assessing the data for quality and tidiness issues, cleaning the data and visualizing insights.
 
+**You can check the notebook as HTML file below**
+
+> [Notebook](https://m-mabrouk1.github.io/Communicate-Data-Findings/Communicate-Data.html)
+
+**You can check a slideshow with the main findings below**
+
+> [Slideshow](https://m-mabrouk1.github.io/Communicate-Data-Findings/Communicate-Data-SlideDeck.slides.html)
+
 ## Dataset Description
 
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
