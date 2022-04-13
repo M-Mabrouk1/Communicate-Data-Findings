@@ -13,7 +13,6 @@ In this project, I am investigating Ford GoBike System Data dataset, assessing t
 **You can check a slideshow with the main findings below**
 
 > [Slideshow](https://m-mabrouk1.github.io/Communicate-Data-Findings/Communicate-Data-SlideDeck.slides.html)
-
 ![demo gif](data/Communicate.gif)
 ## Dataset Description
 
