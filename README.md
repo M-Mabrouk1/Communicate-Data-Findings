@@ -14,6 +14,7 @@ In this project, I am investigating Ford GoBike System Data dataset, assessing t
 
 > [Slideshow](https://m-mabrouk1.github.io/Communicate-Data-Findings/Communicate-Data-SlideDeck.slides.html)
 
+![demo gif](data/Communicate.gif)
 ## Dataset Description
 
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
